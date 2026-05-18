@@ -2,7 +2,7 @@
 layout: post
 title: "The Jaw-Dropping Secret of Crocodiles: The Truth Hidden Under Their Tongues That You Almost Missed"
 description: "Discover the astonishing and humorous anatomical secret hidden behind the terrifying teeth of the crocodile—the truth about why they can never stick their tongues out."
-categories: ['호기심 해결', 'en']
+categories: ['why', 'en']
 tags: [CrocodileSecret, CrocodileTongue, AnimalEvolution, WildlifeAnatomy, ReptileFacts, CrocodilianSurvival]
 lang: en
 ---
